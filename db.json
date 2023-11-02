@@ -1,3 +1,5 @@
 {
-  "nikita": ["kozel"]
+  "nikita": {
+    "firstOfAll": "kozel"
+  }
 }
